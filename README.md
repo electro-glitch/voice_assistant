@@ -25,13 +25,19 @@ A simple voice assistant that listens to your commands, performs a web search, s
    pip install google.generativeai
    pip install pyttsx3
    pip install python-dotenv
-     
-## Running
-  ```python voicesearch.py```
-  Or just run it directly from your IDE!
+   
+## Usage
 
-  The script will listen for your voice, search the web based on what you say, summarize the results, and speak the summary out loud.
+To run the script, use the following command:
+
+```bash
+python voicesearch.py
+```
+
+Or just run it directly from your IDE!
+
+The script will listen for your voice, search the web based on what you say, summarize the results, and speak the summary out loud.
 
 ## Notes
 - You’ll need to sign up for your own API keys from Google Custom Search API and Gemini API.
-- Make sure your microphone is working well for speech recognition!
+- Make sure your microphone is working well for speech recognition! 
