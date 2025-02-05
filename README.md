@@ -1,4 +1,4 @@
-# Update (20/12/2025)
+# Update (28/1/2025)
 Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query.
 
 # Voice Assistant
