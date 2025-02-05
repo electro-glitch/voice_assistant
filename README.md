@@ -2,8 +2,7 @@
 The code for the webscraper has also been removed from the repository.
 
 # Update (28/1/2025)
-Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query. The code for the same has also also been removed from the repository
-
+Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query.
 # Voice Assistant
 
 A simple voice assistant that listens to your commands, performs a web search, summarizes the results, and reads it back to you using text-to-speech.
