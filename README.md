@@ -1,5 +1,5 @@
 # Update (28/1/2025)
-Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query.
+Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query. The code for the same has now also been removed from the repository.
 
 # Voice Assistant
 
