@@ -1,19 +1,13 @@
-# Update (05/02/2025)
-The code for the webscraper has also been removed from the repository.
+# Voice Assistant🎙️
 
-# Update (28/1/2025)
-Web scraping been separated from the main code owing to terms and conditions of various websites. Code now only gives relevant links and an AI generated summary of the search query.
-# Voice Assistant
+A simple voice assistant that listens to your commands, performs a web search, summarizes the results, and reads it back to you using text-to-speech. Powered by Google Gemini.
 
-A simple voice assistant that listens to your commands, performs a web search, summarizes the results, and reads it back to you using text-to-speech.
+## Features🚀
+- Recognizes speech input and convert it to text.
+- Gives Gemini's response in text and proceeds to read it out aloud
+- Returns a list of webpage links you might find useful based on the input
 
-## Features
-- Recognize speech and convert it to text.
-- Perform web searches using Google Custom Search API.
-- Summarize the search results with Gemini API.
-- Read the summary out loud with text-to-speech.
-
-## Setup
+## Setup🏗️
 
 1. **Clone the repo**:
    ```bash
@@ -31,7 +25,7 @@ A simple voice assistant that listens to your commands, performs a web search, s
    pip install pyttsx3
    pip install python-dotenv
    
-## Usage
+## Usage👍
 
 To run the script, use the following command:
 
